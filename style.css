@@ -1,0 +1,82 @@
+body{
+    margin: 0%;
+    font-family: sans-serif;
+	
+}
+p{
+    color: dimgray;
+}
+
+section{
+    height: 500px;
+}
+h1{
+    font-size: 40px;
+}
+.half-width{
+   width: 40%;
+    float: left;
+    padding-left : 5%;
+    margin-left: 2%;
+}
+.half-width img{
+    width: 100%;
+
+}
+.name-highlight{
+    color: deeppink;
+}
+.btn{
+    text-decoration: none;
+    background-color:deeppink;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    
+}
+.top-banner{
+    background-image: url("header-bg.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+	
+}
+.biography{
+    background-image: url("biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.latest-work{
+    background-image: url("latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+.latest-work2{
+    width: 30%;
+   float: left;
+   margin-left: 2%;
+    padding-left: 1%;
+}
+
+.latest-work2 img{
+    width: 100%;
+}
+.joe-biden{
+    background-image: url("footer-bg.png");
+    background-repeat: no-repeat;
+    text-align: center;
+    
+}
+.joe-biden h4{
+    font-size:15px;
+}
+.box{
+    background-color: deeppink;
+    color: white;
+    border-radius: 20px;
+    margin: 10px 350px 10px 350px;
+    padding: 20px 0 20px 0;
+
+}
